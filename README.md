@@ -1,4 +1,6 @@
-# Chasing Your Tail (CYT)
+# Chasing Your Tail (CYT) - TPMS
+
+This is a fork of Matt's original "NG" code, with the aim of including TPMS support using one, or two RTL-SDR dongles.
 
 A comprehensive Wi-Fi probe request analyzer that monitors and tracks wireless devices by analyzing their probe requests. The system integrates with Kismet for packet capture and WiGLE API for SSID geolocation analysis, featuring advanced surveillance detection capabilities.
 
